@@ -1,0 +1,2 @@
+# Praktikum02ModelBarang
+ Praktikum02classmodelbarang
